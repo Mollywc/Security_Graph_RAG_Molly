@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Confidently Wrong: Reproducible AI-Augmented Threat-Hunting Experiments"
+message: "If you use this benchmark or experiment design, please cite this repository."
+type: software
+authors:
+  - family-names: Correia
+    given-names: Molly
+version: 1.0.0
+date-released: 2026-10-07
+license: MIT
+keywords:
+  - DFIR
+  - threat hunting
+  - LLM
+  - false positives
+  - MITRE ATT&CK
+  - RAG
+  - AI evaluation
